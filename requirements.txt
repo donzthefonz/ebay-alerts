@@ -10,7 +10,7 @@ idna==2.9
 lxml==4.5.0
 multidict==4.7.5
 requests==2.23.0
-urllib3==1.25.9
+urllib3==1.26.5
 websockets==8.1
 yarl==1.4.2
 python-dotenv
